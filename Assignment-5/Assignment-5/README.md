@@ -1,12 +1,12 @@
 # STUDENT DETAILS
 
-**Name:** YAZHINI.E.M
+**Name:** LENIN K
 
-**Register Number:** 192511165
+**Register Number:** 192321050
 
 **Course Name:** Java Programming
 
-**Course Code:** CSA0901
+**Course Code:** CSA0911
 
 ---
 
