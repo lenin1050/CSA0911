@@ -2,7 +2,7 @@
 ## Student Details
 
 - **Name:** LENIN K
-- **Register Number:**1922321050
+- **Register Number:**192321050
 - **Course Name:**JAVA PROGRAMMING
 - **Course Code:**CSA0911
 
