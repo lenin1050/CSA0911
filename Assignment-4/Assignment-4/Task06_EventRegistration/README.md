@@ -1,10 +1,10 @@
 # CSA09 – Java Programming Assignment 4
 ## Student Details
 
-- **Name:** YAZHINI.E.M
-- **Register Number:**192511165
+- **Name:** LENIN K
+- **Register Number:**1922321050
 - **Course Name:**JAVA PROGRAMMING
-- **Course Code:**CSA0901
+- **Course Code:**CSA0911
 
 ## Project Overview
 This repository contains six Java programming tasks demonstrating GUI development, event handling, database connectivity, input validation and application design.
